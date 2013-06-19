@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["me@delian.io"]
   gem.description   = "Make Swipe.JS available in the Rails asset pipeline."
   gem.summary       = "Make Swipe.JS available in the Rails asset pipeline."
-  gem.homepage      = "https://github.com/sdball/kalendae_assets"
+  gem.homepage      = "https://github.com/mitdelian/swipe-rails"
 
   gem.executables   = `git ls-files -- bin/*`.split("\n").map{ |f| File.basename(f) }
   gem.files         = `git ls-files`.split("\n")
