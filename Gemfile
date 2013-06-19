@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in kalendae_assets.gemspec
+# Specify your gem's dependencies in swipe-rails.gemspec
 gemspec
